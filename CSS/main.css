@@ -1,0 +1,63 @@
+body{
+    background:whitesmoke;
+   }
+
+header{
+    background-color: #F08080;
+    border: 0.1em 0em 0em solid thistle;
+    color: white;
+    font-size: 1.5em;
+    height: auto;
+    padding: 0.5em;
+    text-align: center;
+    width: 1196px;
+}
+
+div.box{
+    border: 0em solid  #F08080;
+    height: 500px;
+    margin: 0;
+    float: left;
+    width: 405px;
+}
+
+div#left{
+    border: 1px solid  #F08080;
+}
+
+div#right{
+    border: 1px solid  #F08080;
+}
+
+
+section h1{
+    text-align: center;
+}
+
+section p{
+    margin: 0em 1em 0em;
+    text-align: justify;
+}
+
+
+div img{
+    bottom: 0;
+    left: 5em;
+    margin: 6em 3em 3em;
+    height: 13em;
+    position: relative;
+    width: 15em;
+}
+
+footer{
+    background-color: #F08080;
+    border: 0.1em solid thistle;
+    color: white;
+    display: inline;
+    height: 3em;
+    left: 0.5em;
+    text-align: center;
+    position: absolute;
+    top: 560px;
+    width: 1217px;
+}
